@@ -2,9 +2,12 @@
 # lab07 - Procesador
 
 ## Integrantes
-
+Guillermo Enrique Montejo Borras cód: 111608
 
 ## Documentación
+Un procesador, microprocesador o CPU no es mas que el cerebro de cualquier dispositivo electrónico, como por ejemplo celulares, computadoras, etc. Existe una diferencia entre procesador y microcontrolador, a groso modo se puede diferenciar en que el CPU es el cerebro de un dispositivo electrónico mientras que un microcontrolador es una computadora pero con prestaciones bastante limitadas, es decir, cuanta con RAM, ROM y CPU. Una caracteristica en comun es que ambos se pueden programar.
 
+
+La presente actividad consistió en implementar un procesador basico cuya arquitectura es RISC-V, dicha arquitectura consiste en un conjunto de instrucciones de hardware libre, esto significa que cualquiera puede modificarlo sin problema alguno.
 
 ## Evidencias
