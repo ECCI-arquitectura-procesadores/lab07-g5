@@ -3,6 +3,7 @@
 
 ## Integrantes
 Guillermo Enrique Montejo Borras cód: 111608
+Maider Andrés Gutiérrez Cusba  cód: 129508
 
 ## Documentación
 Un procesador, microprocesador o CPU no es mas que el cerebro de cualquier dispositivo electrónico, como por ejemplo celulares, computadoras, etc. Existe una diferencia entre procesador y microcontrolador, a groso modo se puede diferenciar en que el CPU es el cerebro de un dispositivo electrónico mientras que un microcontrolador es una computadora pero con prestaciones bastante limitadas, es decir, cuanta con RAM, ROM y CPU. Una caracteristica en comun es que ambos se pueden programar.
