@@ -3,7 +3,9 @@
 
 ## Integrantes
 Guillermo Enrique Montejo Borras cód: 111608
+
 Maider Andrés Gutiérrez Cusba  cód: 129508
+
 Adam David Martinez Martinez cód: 120489
 
 ## Documentación
@@ -14,3 +16,10 @@ La presente actividad consistió en implementar un procesador basico cuya arquit
 
 ## Evidencias
 Implementación del procesador RISC-V https://youtu.be/PSXv1eQMS7Q
+
+<p align="center">
+ <img src="fpga.PNG" alt="alt text" width=600 >
+</p>
+<p align="center">
+ Figura 1 Implementación procesador RISC-V.
+</p>
